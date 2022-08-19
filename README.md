@@ -1,5 +1,7 @@
 # RP2D
 
+__OUTDATED - INSECURE - DO NOT USE__
+
 ### Roleplay 2D Script for Counter-Strike 2D (CS2D)
 
 Up to date developer blog can be found [HERE](https://marcellcsendes.xyz/miamirp/).
